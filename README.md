@@ -58,7 +58,7 @@ I am an undergraduate Computer Science student at University of Indonesia
 [![](https://img.shields.io/badge/-🎶%20OpenMusic%20App%20Backend-000)](https://github.com/steven-fo/openmusic-app-back-end)
 
 ### 🔥 My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steven-fo&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steven-fo&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 [![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=steven-fo&hide=stars&show=prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
