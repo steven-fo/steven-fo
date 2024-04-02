@@ -4,8 +4,8 @@
 
 ### 👨‍💻 About Me :
 I am an undergraduate Computer Science student at University of Indonesia
-- 🔭 I’m interested about game developments
-- 🌱 I’m currently learning Unity and Unreal Engine
+- 🔭 I’m interested about data science & analysis
+- 🌱 I’m currently learning Machine Learning through Kaggle courses
 - 📔 I have several experiences in game developments, mobile developments, back-end operations, and website developments
 - 📬 Connect with me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/steven-faustin-orginata/)
 
